@@ -2,7 +2,7 @@
 
 
 
-## CARACTERÍSTICAS GENERALES DEL ARCHIVO DOCKER-COMPOSE.YML:ç
+## CARACTERÍSTICAS GENERALES DEL ARCHIVO DOCKER-COMPOSE.YML:
 
 
 Se deben levantar dos servicios, uno de ellos con la imagen de apache y el otro con la imagen del servidor bind9.El primero de ellos ofrecerá el servicio de servidor web , mientras que el segundo tiene la tarea de resolver las peticicones de resolución de nombres de los dominios configurados.
